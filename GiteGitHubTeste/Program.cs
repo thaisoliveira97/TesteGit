@@ -8,6 +8,7 @@ namespace GiteGitHubTeste
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Teste");
+            Console.WriteLine("Thcau");
             Console.ReadLine();
         }
     }
